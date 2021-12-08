@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tomsav83/API_Project/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/tomsav83/API_Project/static/js/main.d7b4ca23.chunk.js",
+    "main.js.map": "/tomsav83/API_Project/static/js/main.d7b4ca23.chunk.js.map",
+    "runtime-main.js": "/tomsav83/API_Project/static/js/runtime-main.149940e9.js",
+    "runtime-main.js.map": "/tomsav83/API_Project/static/js/runtime-main.149940e9.js.map",
+    "static/js/2.d626e7d1.chunk.js": "/tomsav83/API_Project/static/js/2.d626e7d1.chunk.js",
+    "static/js/2.d626e7d1.chunk.js.map": "/tomsav83/API_Project/static/js/2.d626e7d1.chunk.js.map",
+    "static/js/3.6d2746e0.chunk.js": "/tomsav83/API_Project/static/js/3.6d2746e0.chunk.js",
+    "static/js/3.6d2746e0.chunk.js.map": "/tomsav83/API_Project/static/js/3.6d2746e0.chunk.js.map",
+    "index.html": "/tomsav83/API_Project/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/tomsav83/API_Project/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d626e7d1.chunk.js.LICENSE.txt": "/tomsav83/API_Project/static/js/2.d626e7d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.149940e9.js",
+    "static/js/2.d626e7d1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.d7b4ca23.chunk.js"
+  ]
+}
